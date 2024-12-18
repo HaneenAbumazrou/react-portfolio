@@ -4,17 +4,17 @@ const Portfolio = () => {
       {
         image: '/images/project1.png',
         title: 'MobixStore E-commerce Website',
-        link: '#'
+        link: 'https://github.com/HaneenAbumazrou/e-commerce_php'
       },
       {
         image: '/images/project2.png',
         title: 'Airbnb website',
-        link: '#'
+        link: 'https://github.com/HaneenAbumazrou/Airbnb'
       },
       {
         image: '/images/project3.png',
         title: 'JO BEST Movie Website',
-        link: '#'
+        link: 'https://github.com/HaneenAbumazrou/movie-webapp'
       }
     ];
   
